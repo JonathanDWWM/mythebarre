@@ -1,0 +1,6 @@
+:root{--fond:#EDE3CF;--encre:#1B1A17;--rouge:#C1272D}
+body{background:var(--fond);color:var(--encre);font:17px/1.6 Georgia,serif;max-width:680px;margin:0 auto;padding:40px 16px}
+h1{font-family:Impact,"Bebas Neue",sans-serif;letter-spacing:.04em;font-size:2.6em;margin:0}
+h1 s{text-decoration-color:var(--rouge);text-decoration-thickness:.12em}
+a{color:var(--rouge)}
+footer{margin-top:48px;font-size:.85em;opacity:.7}
